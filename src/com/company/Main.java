@@ -10,6 +10,8 @@ public class Main {
         int d = b + c;
         System.out.println(c + " Est le plus grand chiffre");
         System.out.println(d);
+        System.out.println(" ça a fonctionné");
+        System.out.println("C'est cool");
     }
     }
 
